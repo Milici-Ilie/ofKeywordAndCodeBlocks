@@ -305,12 +305,20 @@ jshell>
                                                                 ❗❗❗ 🗿🗿[STATEMENTS]🗿🗿 ❗❗❗
 
     ## ✅VIII. -ofKeywordAndCodeBlock, === another project, search on Git-Hub by this name: "ofKeywordAndCodeBlock"
+                -Methods
 
-[Main.java]/[]
+> How to not duplicate codes in java: we need to use/implement: METHODS
+
+
+[Main.java]/[MainChallenge.java]
 
                                                               ❗❗❗ 🏢🏢[KEY-WORDS]🏢🏢 ❗❗❗
 
-    ## ✅IX. subtitlu
+    ## ✅IX. -Methods
+
+[MainChallenge.java]/[]
+
+                                                              ❗❗❗ 🌠🌠[METHODS]🌠🌠 ❗❗❗
 
     ## ✅X. subtitlu
 
