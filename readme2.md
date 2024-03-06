@@ -316,13 +316,23 @@ jshell>
 
     ## ✅IX. -Methods
 
+> If we want to create a Method/function that return something back, some value we neeed to write it like this ❗❗❗"public static int calculateMyAge(int dateOfBirth){ return (2023 - dateOfBirth);}"❗❗❗, we can't include the 'void' because the 'Methods' with 'void' included do not return values
+> Check the file ❗❗❗'MainChallenge.java' to see the return Method 'public static int calculateScore (.....){...};'❗❗❗
+
 [MainChallenge.java]/[]
 
                                                               ❗❗❗ 🌠🌠[METHODS]🌠🌠 ❗❗❗
 
-    ## ✅X. subtitlu
+    ## ✅X. -ORACLE CERTIFICATION 
 
-    ## ✅XI. subtitlu
+-There are many shortcuts in JAVA like the Snippets in VsCode. Just look in the 'search LOOP' in the right up 👆 and type for 'tips'
+-One tip that you can note is 'psvm', this will write a ['public class FOLDERNAME {...etc...}']
+
+    ## ✅XI. -CHALLENGE.java 
+
+[Challenge.java]
+
+>How to use Methods, how to pass data between methods and call/summon other methods in your Maine method
 
     ## ✅XII. subtitlu
 
