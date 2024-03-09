@@ -370,6 +370,14 @@ System.out.println(resultText);
 
     -Check the file [BarkingDogChallenge.java]
 
+5. Leap Year Calculator. How to calculate the remaining/remainder and also to check with multiple if-else statements
+
+    -Check the file [LeapYearCalculator.java]
+
+6. How to compare the first 3 decimals to see if they are equals
+
+   -Check the file [DecimalComparator.java]
+
 
     ## ✅XIII. subtitlu
 

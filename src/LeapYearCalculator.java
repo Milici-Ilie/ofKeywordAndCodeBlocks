@@ -8,7 +8,7 @@ public class LeapYearCalculator {
             return false;
         }
 
-        if (year % 4 == 0) { // if year is divisible by 4, go to next step.
+        if (year % 4 == 0) { // if year is divisible by 4, go to next step. and divide perfectly and the remainder/rest is 0 than go to next step, and repeat to all the steps
             if (year % 100 != 0) { // if year is not divisible by 100, it's a leap year, so return true.
                 return true;
             } else { // if year was divisible by 100, let's check if it's divisible by 400.
