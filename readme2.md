@@ -366,6 +366,9 @@ System.out.println(resultText);
 
    -Check the file [MegaBytesConverter.java]
 
+4. How to create a Barking Dog application where we check if the dog is barking between different hours using boolean and integer hours
+
+    -Check the file [BarkingDogChallenge.java]
 
 
     ## ✅XIII. subtitlu
