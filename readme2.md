@@ -362,7 +362,9 @@ System.out.println(resultText);
    
    -Check the file [speedConverterChallenge]
 
+3. How to calculate the MegaBytes Converter. Remaining kiloBytes, etc 
 
+   -Check the file [MegaBytesConverter.java]
 
 
 
