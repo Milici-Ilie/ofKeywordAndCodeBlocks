@@ -378,6 +378,10 @@ System.out.println(resultText);
 
    -Check the file [DecimalComparator.java]
 
+7. How to check if a number is between a specific range, let's say between 13 and 19
+
+    -Check the file [TennNumberChecker.java]
+
 
     ## ✅XIII. subtitlu
 

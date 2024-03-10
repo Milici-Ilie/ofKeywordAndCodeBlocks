@@ -24,7 +24,7 @@ public class LeapYearCalculator {
     }
 
     public static void main(String[] args) {
-        boolean result = isLeapYear(2000);
+        boolean result = isLeapYear(2001);
         System.out.println(result);
     }
 
